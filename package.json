@@ -1,0 +1,19 @@
+{
+  "name": "framework_l5",
+  "version": "1.0.0",
+  "description": "Framework on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/H4UZ1CHK1/FRAMEWORK_L5.git"
+  },
+  "author": "Alex Naval",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

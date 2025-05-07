@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "name": "Стоицизм",
+      "foundedIn": -300,
+      "region": "Древняя Греция",
+      "isActive": false,
+      "majorThinkers": ["Зенон", "Эпиктет", "Сенека"],
+      "createdAt": "2024-04-09"
+    }
+  ]
